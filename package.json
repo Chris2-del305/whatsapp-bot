@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp bot that replies to messages automatically",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "keywords": ["whatsapp", "bot", "automation"],
+  "author": "Chris2-del305",
+  "license": "MIT"
+}
